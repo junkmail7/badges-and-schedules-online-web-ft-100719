@@ -5,13 +5,3 @@ array.each do |name|
 end
 end
 
-#batch_badge_creator(names)
-#badges=[]
-#x=1
-#  array.each do |name|
-#  badges[x-1]="Hello, #{name}! You'll be assigned to room #{x}!"
-# x=x+1
-#  end
-#end
-
-printer
