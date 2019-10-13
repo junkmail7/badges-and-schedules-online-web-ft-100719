@@ -23,4 +23,5 @@ x=1
   return badges
 end
 
-def printer()
+def printer(array)
+  array.each do ||
