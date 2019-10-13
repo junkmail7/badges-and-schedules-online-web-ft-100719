@@ -25,3 +25,4 @@ end
 
 def printer(array)
   array.each do |eachone|
+    puts assign_rooms()
