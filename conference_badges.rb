@@ -24,5 +24,10 @@ x=1
 end
 
 def printer(array)
-  array.each do |eachone|
-    puts assign_rooms()
+  batch_badge_creator(array).each do |eachone|
+    puts eachone
+  end
+  assign_rooms(array).each do |eachone1|
+    puts eachone1
+  end
+end
