@@ -22,3 +22,5 @@ x=1
   end
   return badges
 end
+
+def printer()
