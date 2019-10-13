@@ -24,4 +24,4 @@ x=1
 end
 
 def printer(array)
-  array.each do ||
+  array.each do |eachone|
